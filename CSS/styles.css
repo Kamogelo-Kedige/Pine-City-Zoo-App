@@ -31,7 +31,7 @@ header img {
 
 header section ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: forestgreen;
   list-style-type: none;
   margin-top: auto;
@@ -83,7 +83,7 @@ footer section ul {
   padding: 10px;
   margin: 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   list-style-type: none;
 }
 
