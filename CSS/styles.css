@@ -31,7 +31,7 @@ header img {
 
 header section ul {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background-color: forestgreen;
   list-style-type: none;
   margin-top: auto;
