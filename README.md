@@ -5,7 +5,7 @@
 
 
 ## 🔗 Live Demo
-[View Pine City App](https://kamogelo-kedige.github.io/Contact-Book-App/)
+[View Pine City App](https://kamogelo-kedige.github.io/Pine-City-Zoo-App/)
 
 
 ## 📄 License  
